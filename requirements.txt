@@ -1,0 +1,7 @@
+django==2.1.3
+sklearn
+numpy
+lime
+anchor_exp
+matplotlib
+scikit-learn
