@@ -1,7 +1,9 @@
+The detailed project report of our work can be found [here](https://drive.google.com/file/d/1XovGlhusewfdOs-y1fy_QAx3XMdf146M/view) 
+The following describes how to use the web application for your own predictions and classifier.
 # Explanable_ML
 We built a **web application** through which people can explain the predictions of various classifiers on different datasets
 using *LIME* as well as *aLIME*
-They needn’t have any expertise in programming or machine learning.
+They need not have any expertise in programming or machine learning.
 We’ve made the entire cumbersome process end to end.
 The user just needs to upload the dataset in a rectangular format consisting only numerical entries with no entries missing.
 Then she needs to type in various *features* and *class labels* that the dataset comprises of.
